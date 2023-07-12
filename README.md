@@ -1,4 +1,6 @@
 # Assignment-Picture-Gallery-Application
+Live Demo:
+https://dhruval25.github.io/Assignment-Picture-Gallery-Application/
 
 This project is a picture gallery application that allows users to search for and display relevant pictures based on a category name. The application utilizes JavaScript, CSS, HTML, and API calls to retrieve pictures from Unsplash.com and presents them in a visually appealing grid.
 
